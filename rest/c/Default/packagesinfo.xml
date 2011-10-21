@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
+    <pi>
+        <p>
+            <n>JoomlaPlatform</n>
+            <c>ianmacl.github.com/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>GPL v2.0 or Later</l>
+            <s>PHP Application Framework.</s>
+            <d>PHP Application Framework.</d>
+            <r xlink:href="/rest/r/joomlaplatform" />
+        </p>
 
+        <a>
+            <r>
+                <v>1.11.2</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.11.2</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.0";}}}</d>
+        </deps>
+
+    </pi>
 </f>

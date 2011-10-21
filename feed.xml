@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ianmacl.github.com/pear</id>
-    <updated>2011-10-21T16:42:12-04:00</updated>
+    <updated>2011-10-21T17:14:06-04:00</updated>
     <title>ianmacl's PEAR Channel Server Latest Releases</title>
     <link href="http://ianmacl.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://ianmacl.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>JoomlaPlatform 1.11.2 (stable)</title>
+        <link href="http://ianmacl.github.com/pear/get/JoomlaPlatform-1.11.2.tgz" />
+        <id>http://ianmacl.github.com/pear/get/JoomlaPlatform-1.11.2.tgz</id>
+        <author>
+            <name>joomla</name>
+        </author>
+        <updated>2011-10-21T21:09:06-04:00</updated>
+        <content>
+            
+-
+ 
+        </content>
+    </entry>
 </feed>
