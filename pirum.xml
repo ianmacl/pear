@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>ianmacl.github.com/pear</name>
+  <summary>ianmacl's PEAR Channel Server</summary>
+  <alias>ianmacl</alias>
+  <url>http://ianmacl.github.com/pear</url>
+</server>
